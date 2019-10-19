@@ -10,9 +10,8 @@ This is a basic web portfolio made using the Bootstrap library. It's patterned a
 ## Libraries Used
 * Bootstrap
 
-## Challenges to Address
+## Challenges to Address (In Future)
 * Sticky Footers
-* Footer on Portfolio Page needs Centered Text
 
 ## Features
 The use of the Bootstrap library to create a web portfolio layout following the visual given in the UCLA Coding Bootcamp homework. A fully responsive website that changes presented material in the viewport depending on viewport size.
